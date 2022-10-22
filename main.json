@@ -1,0 +1,335 @@
+[
+  {
+		"banner": 1,
+		"banUrl": "https://play.google.com/store/apps/details?id=peacock.cnt.kwgt",
+		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_309.jpg"
+	},
+	{
+		"banner": 1,
+		"banUrl": "https://play.google.com/store/apps/details?id=venus.cnt.kwgt",
+		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_126.jpg"
+	},
+	{
+		"banner": 1,
+		"banUrl": "https://t.me/Wallery_Walls",
+		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/download.png"
+	},
+  
+  
+  
+   {
+		"name": "Scenery 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211121_173113.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery1",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211121_173206.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery2",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 3",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211121_173228.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery3",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 4",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211130_162605.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery4",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 5",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211130_162614.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery5",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 6",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211217_213116.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery6",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 7",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211217_213313.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery7",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 8",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211217_213346.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery8",
+	  "special": 0
+	},
+   {
+		"name": "Scenery 9",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211219_132347.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery9",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 10",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211225_162224.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery10",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 11",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220108_155255.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery11",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 12",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220109_141125.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery12",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 13",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220109_141152.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery13",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 14",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220109_141202.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery14",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 14",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220202_115055.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery14",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 15",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220202_115127.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery15",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 16",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220202_115146.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery16",
+	  "special": 0
+	},
+     {
+		"name": "Scenery 17",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191724.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery17",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 18",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191756.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery18",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 19",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191806.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery19",
+	  "special": 0
+	},
+   {
+		"name": "Scenery 20",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191819.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery20",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 21",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191843.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery21",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 22",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191907.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery22",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 23",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192111.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery23",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 24",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192124.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery24",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 24",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192138.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery24",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 25",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192153.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery25",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 26",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192204.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery26",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 27",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192212.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery27",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 28",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192226.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery28",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 29",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192235.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery29",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 30",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192241.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery30",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 31",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/Untitled-.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery31",
+	  "special": 1
+	},
+   {
+		"name": "Scenery 32",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/Untitled-2.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery32",
+	  "special": 1
+	},
+     {
+		"name": "Scenery 33",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/Untitled2.jpg",
+	 	"category": "Scenery",
+	  "id": "Scenery33",
+	  "special": 1
+	}
+ ]
