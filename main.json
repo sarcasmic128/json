@@ -62,6 +62,42 @@
 	  "id": "Scenery5",
 	  "special": 0
 	},
+	{
+		"name": "Abstract 1",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20211126_201438.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract1",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 2",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20211220_113656.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract2",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 3",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20220101_105923.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract3",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 4",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20220101_105939.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract4",
+	  "special": 0
+	},	
      {
 		"name": "Scenery 6",
 		"author": "Sarthak Patil",
@@ -114,6 +150,42 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20220108_155255.jpg",
 	 	"category": "Scenery",
 	  "id": "Scenery11",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 5",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210604.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract5",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 6",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210614.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract6",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 7",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210621.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract7",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 8",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210643.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract8",
 	  "special": 1
 	},
      {
@@ -224,6 +296,33 @@
 	  "id": "Scenery22",
 	  "special": 1
 	},
+	{
+		"name": "Abstract 9",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210650.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract9",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 10",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210709.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract10",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 11",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210715.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract11",
+	  "special": 1
+	},
      {
 		"name": "Scenery 23",
 		"author": "Sarthak Patil",
@@ -278,6 +377,33 @@
 	  "id": "Scenery27",
 	  "special": 1
 	},
+	{
+		"name": "Abstract 12",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210723.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract12",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 13",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210806.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract13",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 14",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210814.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract14",
+	  "special": 0
+	},
      {
 		"name": "Scenery 28",
 		"author": "Sarthak Patil",
@@ -331,5 +457,140 @@
 	 	"category": "Scenery",
 	  "id": "Scenery33",
 	  "special": 1
-	}
+	},
+	{
+		"name": "Abstract 15",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210830.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract15",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 16",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210838.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract16",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 17",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210903.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract17",
+	  "special": 1
+	},
+		{
+		"name": "Abstract 18",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210909.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract18",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 19",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210925.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract19",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 20",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210935.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract20",
+	  "special": 0
+	},
+		{
+		"name": "Abstract 21",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210953.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract21",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 22",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211003.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract22",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 23",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211036.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract23",
+	  "special": 1
+	},
+			{
+		"name": "Abstract 24",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211118.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract25",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 25",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211133.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract25",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 26",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211152.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract26",
+	  "special": 1
+	},
+		{
+		"name": "Abstract 27",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211158.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract27",
+	  "special": 1
+	},
+	{
+		"name": "Abstract 28"
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211220.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract28",
+	  "special": 0
+	},
+	{
+		"name": "Abstract 29",
+		"author": "Sarthak Patil",
+	  "banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_211227.jpg",
+	 	"category": "Abstract",
+	  "id": "Abstract29",
+	  "special": 1
+	},
  ]
