@@ -81,6 +81,26 @@
 		"special": 1
 	},
 	{
+		"name": "Gradient 1",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145223.jpg",
+		"category": "Gradient",
+		"id": "Gradient1",
+		"special": 1
+	},
+	{
+		"name": "Gradient 2",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145237.jpg",
+		"category": "Gradient",
+		"id": "Gradient2",
+		"special": 0
+	},
+	
+	
+	{
 		"name": "Abstract 3",
 		"author": "Sarthak Patil",
 		"banner": 0,
@@ -153,6 +173,24 @@
 		"special": 1
 	},
 	{
+		"name": "Gradient 3",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145456.jpg",
+		"category": "Gradient",
+		"id": "Gradient3",
+		"special": 0
+	},
+	{
+		"name": "Gradient 4",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145504.jpg",
+		"category": "Gradient",
+		"id": "Gradient4",
+		"special": 0
+	},
+	{
 		"name": "Abstract 5",
 		"author": "Sarthak Patil",
 		"banner": 0,
@@ -178,6 +216,24 @@
 		"category": "Abstract",
 		"id": "Abstract7",
 		"special": 0
+	},
+	{
+		"name": "Gradient 5",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145456.jpg",
+		"category": "Gradient",
+		"id": "Gradient5",
+		"special": 0
+	},
+	{
+		"name": "Gradient 6",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145633.jpg",
+		"category": "Gradient",
+		"id": "Gradient6",
+		"special": 1
 	},
 	{
 		"name": "Abstract 8",
@@ -297,6 +353,33 @@
 		"special": 1
 	},
 	{
+		"name": "Gradient 7",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145643.jpg",
+		"category": "Gradient",
+		"id": "Gradient7",
+		"special": 0
+	},
+	{
+		"name": "Gradient 8",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145727.jpg",
+		"category": "Gradient",
+		"id": "Gradient8",
+		"special": 1
+	},
+	{
+		"name": "Gradient 9",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145758.jpg",
+		"category": "Gradient",
+		"id": "Gradient9",
+		"special": 1
+	},
+	{
 		"name": "Abstract 9",
 		"author": "Sarthak Patil",
 		"banner": 0,
@@ -339,6 +422,33 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_192124.jpg",
 		"category": "Scenery",
 		"id": "Scenery24",
+		"special": 1
+	},
+	{
+		"name": "Gradient 10",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145830.jpg",
+		"category": "Gradient",
+		"id": "Gradient10",
+		"special": 0
+	},
+	{
+		"name": "Gradient 11",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145839.jpg",
+		"category": "Gradient",
+		"id": "Gradient11",
+		"special": 1
+	},
+	{
+		"name": "Gradient 12",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145849.jpg",
+		"category": "Gradient",
+		"id": "Gradient12",
 		"special": 1
 	},
 	{
