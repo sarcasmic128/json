@@ -271,6 +271,33 @@
 		"id": "Amoled4",
 		"special": 0
 	},
+		{
+		"name": "Flora 1",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20211225_153844.jpg",
+		"category": "Flora",
+		"id": "Flora1",
+		"special": 0
+	},
+	{
+		"name": "Flora 2",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_190741.jpg",
+		"category": "Flora",
+		"id": "Flora2",
+		"special": 0
+	},
+	{
+		"name": "Flora 3",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_190815.jpg",
+		"category": "Flora",
+		"id": "Flora3",
+		"special": 1
+	},
 	{
 		"name": "Abstract 8",
 		"author": "Sarthak Patil",
@@ -450,6 +477,34 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20220211_145758.jpg",
 		"category": "Gradient",
 		"id": "Gradient9",
+		"special": 1
+	},
+	
+	{
+		"name": "Flora 4",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_190850.jpg",
+		"category": "Flora",
+		"id": "Flora4",
+		"special": 1
+	},
+	{
+		"name": "Flora 5",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_190937.jpg",
+		"category": "Flora",
+		"id": "Flora5",
+		"special": 1
+	},
+	{
+		"name": "Flora 6",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191032.jpg",
+		"category": "Flora",
+		"id": "Flora6",
 		"special": 1
 	},
 	{
@@ -795,6 +850,43 @@
 		"id": "Waves3",
 		"special": 0
 	},
+	
+	{
+		"name": "Flora 16",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191511.jpg",
+		"category": "Flora",
+		"id": "Flora16",
+		"special": 1
+	},
+	{
+		"name": "Flora 17",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191531.jpg",
+		"category": "Flora",
+		"id": "Flora17",
+		"special": 0
+	},
+	{
+		"name": "Flora 18",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191608.jpg",
+		"category": "Flora",
+		"id": "Flora18",
+		"special": 0
+	},
+	{
+		"name": "Flora 19",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191647.jpg",
+		"category": "Flora",
+		"id": "Flora19",
+		"special": 1
+	},
 	{
 		"name": "Abstract 21",
 		"author": "Sarthak Patil",
@@ -831,6 +923,34 @@
 		"id": "Abstract25",
 		"special": 0
 	},
+	
+	{
+		"name": "Flora 13",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191418.jpg",
+		"category": "Flora",
+		"id": "Flora13",
+		"special": 1
+	},
+	{
+		"name": "Flora 14",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191432.jpg",
+		"category": "Flora",
+		"id": "Flora14",
+		"special": 1
+	},
+	{
+		"name": "Flora 15",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191445.jpg",
+		"category": "Flora",
+		"id": "Flora15",
+		"special": 1
+	},
 	{
 		"name": "Waves 4",
 		"author": "Sarthak Patil",
@@ -856,6 +976,34 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Waves/20211230_145614.jpg",
 		"category": "Waves",
 		"id": "Waves6",
+		"special": 0
+	},
+	
+	{
+		"name": "Flora 10",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191234.jpg",
+		"category": "Flora",
+		"id": "Flora10",
+		"special": 1
+	},
+	{
+		"name": "Flora 11",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191255.jpg",
+		"category": "Flora",
+		"id": "Flora11",
+		"special": 1
+	},
+	{
+		"name": "Flora 12",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191405.jpg",
+		"category": "Flora",
+		"id": "Flora12",
 		"special": 0
 	},
 	{
@@ -902,6 +1050,34 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Waves/20211230_145637.jpg",
 		"category": "Waves",
 		"id": "Waves8",
+		"special": 0
+	},
+	
+	{
+		"name": "Flora 7",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191110.jpg",
+		"category": "Flora",
+		"id": "Flora7",
+		"special": 1
+	},
+	{
+		"name": "Flora 8",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191142.jpg",
+		"category": "Flora",
+		"id": "Flora8",
+		"special": 1
+	},
+	{
+		"name": "Flora 9",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191205.jpg",
+		"category": "Flora",
+		"id": "Flora9",
 		"special": 0
 	},
 	{
