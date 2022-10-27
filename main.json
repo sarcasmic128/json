@@ -1236,5 +1236,345 @@
 		"category": "Textography",
 		"id": "Textography2",
 		"special": 1
+	},
+	{
+		"name": "Pastel 1",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211118_134958.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211118_134958.jpg",
+		"category": "Pastel",
+		"id": "Pastel1",
+		"special": 1
+	},
+		{
+		"name": "Pastel 2",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211118_135015.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211118_135015.jpg",
+		"category": "Pastel",
+		"id": "Pastel2",
+		"special": 0
+	},
+		{
+		"name": "Pastel 3",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211201_191715.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211201_191715.jpg",
+		"category": "Pastel",
+		"id": "Pastel3",
+		"special": 0
+	},
+	{
+		"name": "Pastel 4",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211201_191801.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211201_191801.jpg",
+		"category": "Pastel",
+		"id": "Pastel4",
+		"special": 1
+	},
+		{
+		"name": "Pastel 5",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211201_191908.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211201_191908.jpg",
+		"category": "Pastel",
+		"id": "Pastel5",
+		"special": 0
+	},
+		{
+		"name": "Pastel 6",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211201_192203.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211201_192203.jpg",
+		"category": "Pastel",
+		"id": "Pastel6",
+		"special": 1
+	},
+	{
+		"name": "Pastel 7",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211201_192216.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211201_192216.jpg",
+		"category": "Pastel",
+		"id": "Pastel7",
+		"special": 1
+	},
+		{
+		"name": "Pastel 8",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211203_182432.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211203_182432.jpg",
+		"category": "Pastel",
+		"id": "Pastel8",
+		"special": 0
+	},
+		{
+		"name": "Pastel 9",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211203_182704.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211203_182704.jpg",
+		"category": "Pastel",
+		"id": "Pastel9",
+		"special": 1
+	},
+	{
+		"name": "Pastel 10",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211203_182717.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211203_182717.jpg",
+		"category": "Pastel",
+		"id": "Pastel10",
+		"special": 0
+	},
+		{
+		"name": "Pastel 11",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211225_153613.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211225_153613.jpg",
+		"category": "Pastel",
+		"id": "Pastel11",
+		"special": 0
+	},
+		{
+		"name": "Pastel 12",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20211225_153833.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20211225_153833.jpg",
+		"category": "Pastel",
+		"id": "Pastel12",
+		"special": 1
+	},
+		{
+		"name": "Pastel 13",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220225_162538.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220225_162538.jpg",
+		"category": "Pastel",
+		"id": "Pastel13",
+		"special": 0
+	},
+		{
+		"name": "Pastel 14",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220225_162729.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220225_162729.jpg",
+		"category": "Pastel",
+		"id": "Pastel14",
+		"special": 1
+	},
+		{
+		"name": "Pastel 15",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220225_163030.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220225_163030.jpg",
+		"category": "Pastel",
+		"id": "Pastel15",
+		"special": 1
+	},
+		{
+		"name": "Pastel 16",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104512.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104512.jpg",
+		"category": "Pastel",
+		"id": "Pastel16",
+		"special": 1
+	},
+		{
+		"name": "Pastel 17",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104612.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104612.jpg",
+		"category": "Pastel",
+		"id": "Pastel17",
+		"special": 1
+	},
+		{
+		"name": "Pastel 18",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104650.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104650.jpg",
+		"category": "Pastel",
+		"id": "Pastel18",
+		"special": 1
+	},
+			{
+		"name": "Pastel 19",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104728.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104728.jpg",
+		"category": "Pastel",
+		"id": "Pastel19",
+		"special": 1
+	},
+		{
+		"name": "Pastel 20",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104829.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104829.jpg",
+		"category": "Pastel",
+		"id": "Pastel20",
+		"special": 1
+	},
+		{
+		"name": "Pastel 21",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104845.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104845.jpg",
+		"category": "Pastel",
+		"id": "Pastel21",
+		"special": 1
+	},
+				{
+		"name": "Pastel 22",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105008.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105008.jpg",
+		"category": "Pastel",
+		"id": "Pastel22",
+		"special": 1
+	},
+		{
+		"name": "Pastel 23",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105051.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105051.jpg",
+		"category": "Pastel",
+		"id": "Pastel23",
+		"special": 1
+	},
+		{
+		"name": "Pastel 24",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105112.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105112.jpg",
+		"category": "Pastel",
+		"id": "Pastel24",
+		"special": 1
+	},
+	{
+		"name": "Pastel 25",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105155.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105155.jpg",
+		"category": "Pastel",
+		"id": "Pastel25",
+		"special": 1
+	},
+		{
+		"name": "Pastel 26",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105220.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105220.jpg",
+		"category": "Pastel",
+		"id": "Pastel26",
+		"special": 1
+	},
+		{
+		"name": "Pastel 27",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105323.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105323.jpg",
+		"category": "Pastel",
+		"id": "Pastel27",
+		"special": 1
+	},
+	{
+		"name": "Pastel 28",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105350.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105350.jpg",
+		"category": "Pastel",
+		"id": "Pastel28",
+		"special": 1
+	},
+		{
+		"name": "Pastel 29",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105443.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105443.jpg",
+		"category": "Pastel",
+		"id": "Pastel29",
+		"special": 1
+	},
+		{
+		"name": "Pastel 30",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105511.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105511.jpg",
+		"category": "Pastel",
+		"id": "Pastel30",
+		"special": 1
+	},
+		{
+		"name": "Pastel 31",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105559.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105559.jpg",
+		"category": "Pastel",
+		"id": "Pastel31",
+		"special": 1
+	},
+		{
+		"name": "Pastel 32",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105630.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105630.jpg",
+		"category": "Pastel",
+		"id": "Pastel32",
+		"special": 1
+	},
+		{
+		"name": "Pastel 33",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20221011_211241.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20221011_211241.jpg",
+		"category": "Pastel",
+		"id": "Pastel33",
+		"special": 1
+	},
+			{
+		"name": "Pastel 34",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20221011_211247.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20221011_211247.jpg",
+		"category": "Pastel",
+		"id": "Pastel34",
+		"special": 1
 	}
 ]
