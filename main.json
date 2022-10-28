@@ -15,8 +15,46 @@
 		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/download.png"
 	},
 
-
-
+	{
+		"name": "Scenery 9",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211219_132347.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Scenery/20211219_132347.jpg",
+		"category": "Scenery",
+		"id": "Scenery9",
+		"special": 1
+	},
+{
+		"name": "Abstract 13",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210806.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Abstract/20221011_210806.jpg",
+		"category": "Abstract",
+		"id": "Abstract13",
+		"special": 1
+	},
+	{
+		"name": "Pastel 16",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104512.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104512.jpg",
+		"category": "Pastel",
+		"id": "Pastel16",
+		"special": 1
+	},
+	{
+		"name": "Flora 18",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191608.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Flora/20221009_191608.jpg",
+		"category": "Flora",
+		"id": "Flora18",
+		"special": 0
+	},
 	{
 		"name": "Scenery 1",
 		"author": "Sarthak Patil",
@@ -159,16 +197,7 @@
 		"id": "Scenery8",
 		"special": 0
 	},
-	{
-		"name": "Scenery 9",
-		"author": "Sarthak Patil",
-		"banner": 0,
-		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20211219_132347.jpg",
-		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Scenery/20211219_132347.jpg",
-		"category": "Scenery",
-		"id": "Scenery9",
-		"special": 1
-	},
+
 	{
 		"name": "Scenery 10",
 		"author": "Sarthak Patil",
@@ -772,16 +801,7 @@
 		"id": "Abstract12",
 		"special": 0
 	},
-	{
-		"name": "Abstract 13",
-		"author": "Sarthak Patil",
-		"banner": 0,
-		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Abstract/20221011_210806.jpg",
-		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Abstract/20221011_210806.jpg",
-		"category": "Abstract",
-		"id": "Abstract13",
-		"special": 1
-	},
+	
 	{
 		"name": "Abstract 14",
 		"author": "Sarthak Patil",
@@ -963,16 +983,7 @@
 		"id": "Flora17",
 		"special": 0
 	},
-	{
-		"name": "Flora 18",
-		"author": "Sarthak Patil",
-		"banner": 0,
-		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191608.jpg",
-		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Flora/20221009_191608.jpg",
-		"category": "Flora",
-		"id": "Flora18",
-		"special": 0
-	},
+	
 	{
 		"name": "Flora 19",
 		"author": "Sarthak Patil",
@@ -1387,16 +1398,7 @@
 		"id": "Pastel15",
 		"special": 1
 	},
-		{
-		"name": "Pastel 16",
-		"author": "Sarthak Patil",
-		"banner": 0,
-		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_104512.jpg",
-		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_104512.jpg",
-		"category": "Pastel",
-		"id": "Pastel16",
-		"special": 1
-	},
+		
 		{
 		"name": "Pastel 17",
 		"author": "Sarthak Patil",
