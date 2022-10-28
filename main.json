@@ -690,7 +690,7 @@
 	       "thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Amoled/fluid3.jpg",
 		"category": "Amoled",
 		"id": "Amoled14",
-		"s6cial": 1
+		"special": 1
 	},
       {
 		"name": "Amoled 15",
@@ -700,7 +700,7 @@
 	       "thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Amoled/fluid4.jpg",
 		"category": "Amoled",
 		"id": "Amoled15",
-		"s7cial": 1
+		"special": 1
 	},
      {
 		"name": "Amoled 16",
@@ -709,8 +709,8 @@
 		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Amoled/fluid6.jpg",
 	      "thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Amoled/fluid6.jpg",
 		"category": "Amoled",
-		"id": "Amoled16",
-		"s8cial": 1
+		"id": "Amoled153549154845",
+		"special": 1
 	},
 	{
 		"name": "Gradient 12",
