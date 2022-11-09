@@ -2,19 +2,58 @@
 	{
 		"banner": 1,
 		"banUrl": "https://play.google.com/store/apps/details?id=peacock.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_309.jpg"
+		"name": "Scenery 31",
+		"author": "Sarthak Patil",
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/Untitled-.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Scenery/Untitled-.jpg",
+		"category": "Scenery",
+		"id": "Scenery31",
+		"special": 1
 	},
 	{
 		"banner": 1,
-		"banUrl": "https://play.google.com/store/apps/details?id=venus.cnt.kwgt",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/IMG_20220824_132451_126.jpg"
+		"banUrl": "https://raw.githubusercontent.com/sarcasmic128/json/main/20221109_191946.jpg",
+		"name": "Scenery 17",
+		"author": "Sarthak Patil",
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Scenery/20221009_191724.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Scenery/20221009_191724.jpg",
+		"category": "Scenery",
+		"id": "Scenery17",
+		"special": 1
 	},
 	{
 		"banner": 1,
-		"banUrl": "https://t.me/Wallery_Walls",
-		"url": "https://raw.githubusercontent.com/SarthakDesigns/WallAssests/main/download.png"
+		"banUrl": "https://raw.githubusercontent.com/sarcasmic128/json/main/20221109_192249.jpg",
+		"name": "Pastel 29",
+		"author": "Sarthak Patil",
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Pastel/20220620_105443.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Pastel/20220620_105443.jpg",
+		"category": "Pastel",
+		"id": "Pastel29",
+		"special": 1
 	},
-
+{
+		"banner": 1,
+		"banUrl": "https://raw.githubusercontent.com/sarcasmic128/json/main/20221109_192455.jpg",
+		"name": "Flora 15",
+		"author": "Sarthak Patil",
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Flora/20221009_191445.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Flora/20221009_191445.jpg",
+		"category": "Flora",
+		"id": "Flora15",
+		"special": 1
+	},
+	{
+		"banner": 1,
+		"banUrl": "https://raw.githubusercontent.com/sarcasmic128/json/main/20221109_192557.jpg",
+		"name": "Waves 6",
+		"author": "Sarthak Patil",
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Waves/20211230_145614.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Waves/20211230_145614.jpg",
+		"category": "Waves",
+		"id": "Waves6",
+		"special": 0
+	},
 	{
 		"name": "Scenery 9",
 		"author": "Sarthak Patil",
