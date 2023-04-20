@@ -55,6 +55,26 @@
 		"special": 0
 	},
 	{
+		"name": "Gradient 13",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20230420_162700.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Gradient/20230420_162700-min.jpg",
+		"category": "Gradient",
+		"id": "Gradient13",
+		"special": 1
+	},
+	{
+		"name": "Gradient 14",
+		"author": "Sarthak Patil",
+		"banner": 0,
+		"url": "https://raw.githubusercontent.com/sarcasmic128/images/main/Gradient/20230420_162808.jpg",
+		"thumb": "https://raw.githubusercontent.com/sarcasmic128/thumbnails/main/Gradient/20230420_162808-min.jpg",
+		"category": "Gradient",
+		"id": "Gradient14",
+		"special": 1
+	},
+	{
 		"name": "Scenery 9",
 		"author": "Sarthak Patil",
 		"banner": 0,
